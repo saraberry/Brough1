@@ -111,10 +111,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\Employee.cs" />
+    <Compile Include="Classes\Inventory.cs" />
     <Compile Include="Classes\Pizza.cs" />
     <Compile Include="Classes\Products.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="User.cs" />
+    <Compile Include="Classes\User.cs" />
   </ItemGroup>
   <ItemGroup />
   <PropertyGroup>
