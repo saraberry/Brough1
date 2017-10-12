@@ -19,7 +19,14 @@ namespace GroupFinal
         //empty constructor
         public Employee()
         {
-
+            employeeID = "";
+            employeeFirst = "";
+            employeeLast = "";
+            employeePhone = "";
+            employeeRole = "";
+            employeeHireDate = DateTime.Now;
+            employeeStatus = "";
+            employeeOrders = 0;
         }
         //constructor with all the variables
         public Employee(string employeeID, string employeeFirst, string employeeLast, string employeePhone, string employeeRole, DateTime employeeHireDate, string employeeStatus, string employeeOrders)
