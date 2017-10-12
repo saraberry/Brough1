@@ -6,7 +6,9 @@ using System.Web;
 namespace GroupFinal.Classes
 {
     public class Inventory
-    {
+    {/*
+        Inventory class will be used to maintain store inventory (i.e. pepperoni, cheese etc)
+        */
         private string itemType;
         private int itemAmount;
         private int itemMax;
