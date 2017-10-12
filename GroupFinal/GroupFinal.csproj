@@ -114,6 +114,7 @@
     <Compile Include="Classes\Pizza.cs" />
     <Compile Include="Classes\Products.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User.cs" />
   </ItemGroup>
   <ItemGroup />
   <PropertyGroup>
